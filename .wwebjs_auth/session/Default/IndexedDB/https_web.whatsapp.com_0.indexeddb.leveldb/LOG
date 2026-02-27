@@ -1,0 +1,43 @@
+2026/02/27-19:20:55.019 16ec Reusing MANIFEST C:\Users\leoip\meu-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/27-19:20:55.030 16ec Recovering log #1906
+2026/02/27-19:20:55.073 16ec Reusing old log C:\Users\leoip\meu-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001906.log 
+2026/02/27-19:20:55.075 16ec Delete type=2 #1894
+2026/02/27-19:20:55.075 16ec Delete type=2 #1895
+2026/02/27-19:20:55.075 16ec Delete type=2 #1908
+2026/02/27-19:21:11.823 ee4 Compacting 1@1 + 1@2 files
+2026/02/27-19:21:11.930 ee4 Generated table #1924@1: 18272 keys, 1509083 bytes
+2026/02/27-19:21:11.930 ee4 Compacted 1@1 + 1@2 files => 1509083 bytes
+2026/02/27-19:21:11.931 ee4 compacted to: files[ 0 0 36 0 0 0 0 ]
+2026/02/27-19:23:05.325 644 Level-0 table #1926: started
+2026/02/27-19:23:05.391 644 Level-0 table #1926: 926317 bytes OK
+2026/02/27-19:23:05.393 644 Delete type=2 #1905
+2026/02/27-19:23:05.394 644 Delete type=0 #1906
+2026/02/27-19:23:05.394 644 Delete type=2 #1910
+2026/02/27-19:23:05.400 ee4 Compacting 1@0 + 0@1 files
+2026/02/27-19:23:05.432 ee4 Generated table #1927@0: 10152 keys, 159392 bytes
+2026/02/27-19:23:05.459 ee4 Generated table #1928@0: 3386 keys, 220114 bytes
+2026/02/27-19:23:05.465 ee4 Generated table #1929@0: 111 keys, 9148 bytes
+2026/02/27-19:23:05.465 ee4 Compacted 1@0 + 0@1 files => 388654 bytes
+2026/02/27-19:23:05.468 ee4 compacted to: files[ 0 3 36 0 0 0 0 ]
+2026/02/27-19:23:05.471 ee4 Compacting 1@1 + 8@2 files
+2026/02/27-19:23:05.533 ee4 Generated table #1930@1: 1514 keys, 2142247 bytes
+2026/02/27-19:23:05.597 ee4 Generated table #1931@1: 1675 keys, 2146552 bytes
+2026/02/27-19:23:05.776 ee4 Generated table #1932@1: 27883 keys, 2254771 bytes
+2026/02/27-19:23:05.943 ee4 Generated table #1933@1: 23885 keys, 2279763 bytes
+2026/02/27-19:23:06.072 ee4 Generated table #1934@1: 23171 keys, 2264285 bytes
+2026/02/27-19:23:06.222 ee4 Generated table #1935@1: 39815 keys, 2221844 bytes
+2026/02/27-19:23:06.370 ee4 Generated table #1936@1: 33871 keys, 2250096 bytes
+2026/02/27-19:23:06.441 ee4 Generated table #1937@1: 6436 keys, 2128884 bytes
+2026/02/27-19:23:06.446 ee4 Generated table #1938@1: 3 keys, 15171 bytes
+2026/02/27-19:23:06.446 ee4 Compacted 1@1 + 8@2 files => 17703613 bytes
+2026/02/27-19:23:06.447 ee4 compacted to: files[ 0 2 37 0 0 0 0 ]
+2026/02/27-19:23:06.448 ee4 Delete type=2 #1911
+2026/02/27-19:23:06.448 ee4 Delete type=2 #1912
+2026/02/27-19:23:06.448 ee4 Delete type=2 #1913
+2026/02/27-19:23:06.448 ee4 Delete type=2 #1914
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1915
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1916
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1917
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1918
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1926
+2026/02/27-19:23:06.449 ee4 Delete type=2 #1928
